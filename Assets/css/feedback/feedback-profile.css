@@ -1,0 +1,10 @@
+.profile__name {
+    padding: 0.5em 0;
+    font-weight: 500;
+}
+
+.profile__job {
+    font-size: 0.9em;
+    font-weight: 400;
+    color: var(--grey-text);
+}

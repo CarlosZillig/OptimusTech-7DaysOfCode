@@ -1,0 +1,5 @@
+.feedback__span-title {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: var(--red);
+}

@@ -1,0 +1,17 @@
+.botao {
+    padding: 1.2em 1.7em;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.botao__entrar {
+    color: var(--grey-text);
+    margin-right: 0.5em;
+}
+
+.botao__cadastrar {
+    background: var(--red);
+    color: var(--white-text);
+    border-radius: 10px;
+}

@@ -1,0 +1,9 @@
+.header__logo-image {
+    padding-right: 1em;
+}
+
+.header__logo-title {
+    color: var(--grey-title);
+    font-size: 1.2em;
+    font-weight: 500;
+}

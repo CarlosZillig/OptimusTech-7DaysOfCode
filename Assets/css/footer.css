@@ -1,0 +1,8 @@
+.footer__section {
+    text-align: center;
+    padding: 1em 1em 3em 1em;
+}
+
+.footer__text {
+    color: var(--grey-text);
+}
